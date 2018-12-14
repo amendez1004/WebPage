@@ -4,3 +4,6 @@ h1{text-align: center;font-size: 35px;color: white;font-family: 'Francois One', 
 .center{display: block;
     margin-left: auto;
     margin-right: auto;}
+    p{color: white;font-size: 25px}
+    ol{color: white}
+    li{color: white}
